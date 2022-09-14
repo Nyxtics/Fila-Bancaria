@@ -45,7 +45,4 @@ while True:
         print("Digito invalido, digite apenas 1, 2 ou 3.")
 
 
-#Feito por Josué Augusto e Victor Leonardo Freitas    RA: 1125083
-
-#OBS: Tive dificuldade de fazer funcionar no metodo "FILA CIRCULAR" a funçao "3" do meu codigo professor! "listagem das ultimas senhas"
-#Fiz de um outro metodo um pouco mais complicado e aparentemente funcionou bem!
+#Feito por Josué Augusto 
